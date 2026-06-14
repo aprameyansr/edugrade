@@ -1,1 +1,1 @@
-New Repo : https://github.com/snucHubAdmins/snucHub
+## New Repo : https://github.com/snucHubAdmins/snucHub
